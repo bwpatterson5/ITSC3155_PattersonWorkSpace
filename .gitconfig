@@ -1,0 +1,10 @@
+[core]
+	editor = /usr/bin/nano
+	autocrlf = input
+	saferlf = true
+	safecrlf = true
+[user]
+	name = Blake Patterson
+	email = bpatte36@uncc.edu
+[http]
+	sslverify = false

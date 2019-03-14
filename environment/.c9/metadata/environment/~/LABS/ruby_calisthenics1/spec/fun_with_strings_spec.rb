@@ -1,0 +1,1 @@
+{"filter":false,"title":"fun_with_strings_spec.rb","tooltip":"~/LABS/ruby_calisthenics1/spec/fun_with_strings_spec.rb","ace":{},"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1550006287440,"hash":"e50f896c92880589a2a2ddccb594ba7c76632e1c"}
