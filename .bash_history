@@ -454,3 +454,35 @@ git add .
 git commit -m "Initial Commit For Rails Basics 1"
 git status
 git add ../.aws/
+git add ../.bash_history
+git add ../.bash_logout
+git add ../.bash_profile
+git add ../.bashrc
+git add ../.bundle/
+git add ../.c9
+git add ../.codeintel/
+git add ../.gem/
+git add ../.gitconfig
+git add ../.npm/
+git add ../.npmrc
+git add ../.ssh/
+git add ../environment/
+git add ../node_modules/
+git status
+rails generate controller Welcome index
+cd blog
+rails generate controller Welcome index
+rails server -b $IP -p $PORT
+git add .
+git commit -m “Add Welcome controller & edit view”
+git status
+rails routes
+rails server -b $IP -p $PORT 
+rails routes
+rails server -b $IP -p $PORT
+git add .
+git commit -m "Set the root view"
+git status
+git checkout -- ../../.bash_history
+git checkout -- ../../environment/git-immersion-2
+git status
