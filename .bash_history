@@ -486,3 +486,5 @@ git status
 git checkout -- ../../.bash_history
 git checkout -- ../../environment/git-immersion-2
 git status
+git checkout -- ../../.bash_history
+git status
